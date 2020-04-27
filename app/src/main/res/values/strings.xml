@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Android Course</string>
+    <string name="action_dark">Dark</string>
+    <string name="action_light">Light</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="toast">Some kind of Toast</string>
+    <string name="button_map_text">Map</string>
+    <string name="button_street_text">Street View</string>
+    <string name="button_notification_text">Notifications</string>
+    <string name="button_toast_text">Toast</string>
+    <string name="button_localization_text">Localization</string>
+    <string name="button_sounds_text">Sounds</string>
+    <string name="button_dialogue_text">Dialogue</string>
+    <string name="button_manual_text">Manual</string>
+    <string name="button_text_editor_text">Text Editor</string>
+    <string name="button_animation_text">Animation</string>
+    <string name="title_activity_manual_themes">ManualThemesActivity</string>
+
+    <string name="sun">Солнце</string>
+    <string name="grass">Трава</string>
+    <string name="sky">Небо</string>
+    <string name="clock">Часы</string>
+    <string name="hour">Стрелка</string>
+
+    <string name="action_open">Открыть</string>
+    <string name="action_save">Сохранить</string>
+    <string name="action_settings">Настройки</string>
+    <string name="pref_openmode">Режим открытия</string>
+    <string name="pref_color">Цвет</string>
+    <string name="pref_color_black">Черный цвет</string>
+    <string name="pref_color_red">Красный цвет</string>
+    <string name="pref_color_green">Зеленый цвет</string>
+    <string name="pref_color_blue">Синий цвет</string>
+    <string name="pref_size">Размер</string>
+    <string name="pref_style">Стиль</string>
+    <string name="pref_style_regular">Нормальный</string>
+    <string name="pref_style_bold">Полужирный</string>
+    <string name="pref_style_italic">Курсив</string>
+</resources>

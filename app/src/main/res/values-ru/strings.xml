@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Курс по Андроиду</string>
+    <string name="action_dark">Тёмная</string>
+    <string name="action_light">Светлая</string>
+    <string name="title_activity_maps">Карта</string>
+    <string name="toast">Какой-то Тост</string>
+    <string name="button_map_text">Карты</string>
+    <string name="button_street_text">Улицы</string>
+    <string name="button_notification_text">Уведомления</string>
+    <string name="button_toast_text">Тост</string>
+    <string name="button_localization_text">Локализация</string>
+    <string name="button_sounds_text">Звуки</string>
+    <string name="button_dialogue_text">Диалог</string>
+    <string name="button_manual_text">Записки</string>
+    <string name="button_text_editor_text">Текстовый Редактор</string>
+    <string name="button_animation_text">Анимация</string>
+</resources>
